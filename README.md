@@ -19,17 +19,28 @@ This project utilizes a specific tech stack to achieve its goals. Here is an ove
 Follow these steps to set up and run the project on your local machine.
 
 1. Clone the Repository:
+
    ```bash
    git clone https://github.com/IrynaSyvashchenko/Ricky_and_Morty.git
+   ```
    
-2.  Navigate to the project directory:
+2. Navigate to the project directory:
+
    ```bash
-      cd project-directory Ricky_and_Morty
-3.  Install Dependencies:
+   cd project-directory Ricky_and_Morty
+   ```
+   
+3. Install Dependencies:
+
    ```bash
    npm install
+   ```
+   
 4.  Start the Development Server:
+   
    ```bash
    npm start
+   ```
+
 Access the Application in your web browser at http://localhost:3000.
    
