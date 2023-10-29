@@ -27,12 +27,10 @@ Follow these steps to set up and run the project on your local machine.
    cd project-directory Ricky_and_Morty
 
 3. Install Dependencies:
-
    ```bash
    npm install
 
 4. Start the Development Server:
-
    ```bash
    npm start
 Access the Application in your web browser at http://localhost:3000.
